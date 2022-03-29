@@ -1,0 +1,55 @@
+h1 {
+    align-items: center;
+    font-size: 35px;
+    margin: 5px;
+    padding: 10px;
+}
+
+h2 {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    width: 70px;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+.model-headers {
+    background-color: #BB86FC;
+    padding:10px;
+    text-align: center;
+    color:aliceblue;
+    font-weight: bolder;
+    margin: 10px;
+    font-size: 20px;
+
+    
+}
+
+.model-product {
+    background-color: #424250;
+    padding:10px;
+    text-align: center;
+    color:aliceblue;
+    font-weight: bolder;
+    margin: 10px;
+}
+
+.house-headers {
+    background-color: #00C4B4;
+    padding:10px;
+    text-align: center;
+    color:aliceblue;
+    font-weight: bolder;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.house-product {
+    background-color: #424250;
+    padding:10px;
+    text-align: center;
+    color:aliceblue;
+    font-weight: bolder;
+    margin: 10px;
+}
