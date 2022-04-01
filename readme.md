@@ -6,7 +6,7 @@ This is the final exercise to complete the HTML + CSS Basic Module on the Dev Qu
 On this module, we have seen the first steps in order to become a frontend Developer, such as, Titles and Paragraphs, Lists, Tables, and how to customize them using CSS.
 
 [<img src="table.jpg">]
-## Tech used
+## Languages used
 
 -<img height= 50px, widght= 50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
         
